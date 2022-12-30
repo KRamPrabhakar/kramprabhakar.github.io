@@ -13,6 +13,6 @@ I am a postdoctoral researcher at Johns Hopkins University, advised by [Prof. Ra
 ## News
 - [October 2022] One paper accepted in ICVGIP 2022! 
 - [July 2022] Joined JHU as Postdoc.
-    - [May 2022] Delivered guest lecture at IIT Jammu as part of the "Research for Minds" forum.
-    - [April 2022] Delivered lecture at NIT Patna as part of FDP on AI & ML.
-    - [April 2022] Two papers were accepted in IGARSS 2022!
+- [May 2022] Delivered guest lecture at IIT Jammu as part of the "Research for Minds" forum.
+- [April 2022] Delivered lecture at NIT Patna as part of FDP on AI & ML.
+- [April 2022] Two papers were accepted in IGARSS 2022!
