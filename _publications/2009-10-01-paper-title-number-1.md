@@ -10,7 +10,7 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
 ---
 * Paper title  
 K. Ram Prabhakar, et al.  
-__ECCV 2020__  
+_ECCV 2020_
 * Paper title
 This paper is about the number 1. The number 2 is left for future work.
 
