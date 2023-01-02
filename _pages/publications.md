@@ -17,14 +17,23 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 ## Journals
 * **Self-Gated Memory Recurrent Network for Efficient Scalable HDR Deghosting**  
-__K. Ram Prabhakar__\*, Susmit Agarwal\*, and R. Venkatesh Babu  
-_IEEE Transactions on Computational Imaging 2021_
+K. Ram Prabhakar\*, Susmit Agarwal\*, and R. Venkatesh Babu  
+_IEEE Transactions on Computational Imaging 2021_  
+\[ [paper](https://ieeexplore.ieee.org/document/9540317?source=authoralert), [code](https://github.com/Susmit-A/HDRRNN) \]
 * **PA-Fuse: A Deep Supervised Approach for Fusion of Photoacoustic Images with Distinct Reconstruction Characteristics**  
-N. Awasthi, __K. Ram Prabhakar__, S. K. Kalva, M. Pramanik, R. Venkatesh Babu, and Phaneendra K. Yalavarthy  
+N. Awasthi, K. Ram Prabhakar, S. K. Kalva, M. Pramanik, R. Venkatesh Babu, and Phaneendra K. Yalavarthy  
 _JOSA Biomedical Optics Express 2019_
 
 ## Conferences
-* Paper title  
-K. Ram Prabhakar, et al.  
-_ECCV 2020_
-* Paper title
+* **A Few-shot approach to MRI-based Knee Disorder Diagnosis using Fuzzy Layers**  
+Mohana Singh, K Ram Prabhakar, P Vishwanath, Murali Poduval, Arpan Pal, Jayavardhana Gubbi  
+_ICVGIP 2022_ \[**Oral**\]
+* **Few-Shot Cross-Sensor Domain Adaptation between SAR and Multispectral Data**  
+K. Ram Prabhakar, V H Krishna, J Gubbi, A Pal, P Balamuralidhar  
+_IEEE IGARSS 2022_
+* **Improving SAR and Optical Image Fusion for LULC Classification with Domain Knowledge**  
+K. Ram Prabhakar\*, V H Krishna\*, J Gubbi, A Pal, P Balamuralidhar  
+_IEEE IGARSS 2022_
+* **Few-Shot Domain Adaptation for Low Light RAW Image Enhancement**  
+K Ram Prabhakar, Vishal Vinod*, Nihar Ranjan Sahoo*, and R Venkatesh Babu  
+_BMVC 2021_ \[**Best Student Paper (Runner up) award**\]
