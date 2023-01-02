@@ -33,11 +33,11 @@ Vishal Vinod, K Ram Prabhakar, R. Venkatesh Babu and Anirban Chakraborty
 _1st ILDAV Workshop, ICCV 2021_
 1. **Multi-scale Attention Guided Recurrent Neural Network for Deformation Map Forecasting**  
 K Ram Prabhakar, V H Krishna, M Nayak, J Gubbi, P Balamuralidhar  
-_SPIE Remote Sensing Symposium 2021_ \[ **Oral** \]
+_SPIE Remote Sensing Symposium 2021_ \[**Oral**\]
 1. **Labeled from Unlabeled: Exploiting Unlabeled Data for Few-shot Deep HDR Deghosting**  
 K Ram Prabhakar, G Senthil, S Agrawal, R. V. Babu, R. K. Gorthi  
 _CVPR 2021_  
-\[ code, paper, video\]
+\[code, paper, video\]
 1. **Towards Practical and Efficient High-Resolution HDR Deghosting with CNN**  
 K Ram Prabhakar, S Agrawal, D K Singh, B Ashwath, R. Venkatesh Babu  
 _ECCV 2020_
@@ -46,15 +46,15 @@ K Ram Prabhakar, Akshaya Ramaswamy, Suvaansh Bhambri, Jayavardhana Gubbi, R. Ven
 _IJCNN 2020_
 1. **A fast, scalable and reliable deghosting method for extreme exposure fusion**  
 K Ram Prabhakar\*, Rajat Arora\*, Adhitya Swaminathan, Kunal Pratap Singh, and R. Venkatesh Babu  
-_ICCP 2019_ \[ **Oral** \]
+_ICCP 2019_ \[**Oral**\]
 1. **DeepFuse: A Deep Unsupervised Approach for Exposure Fusion with Extreme Exposure Image Pairs**  
 K Ram Prabhakar, V Sai Srikar and R. Venkatesh Babu  
 _ICCV 2017_
-\[ code\]
+\[code\]
 1. **Ghosting-Free Multi-Exposure Image Fusion in Gradient Domain**  
 K Ram Prabhakar and R. Venkatesh Babu  
 _ICASSP 2016_
-\[ code\]
+\[code\]
 1. **Ghosting Free HDR for Dynamic Scenes via Shift-maps**  
 K Ram Prabhakar and R. Venkatesh Babu  
 _ICVGIP 2016_
