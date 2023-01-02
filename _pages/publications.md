@@ -27,8 +27,7 @@ K. Ram Prabhakar\*, V H Krishna\*, J Gubbi, A Pal, P Balamuralidhar
 _IEEE IGARSS 2022_
 3. **Few-Shot Domain Adaptation for Low Light RAW Image Enhancement**  
 K. Ram Prabhakar, Vishal Vinod\*, Nihar Ranjan Sahoo\*, and R Venkatesh Babu  
-_BMVC 2021_ \[<span style="background-color: yellow;">**Best Student Paper (Runner up) award**</span>\]  
-\[[paper](https://www.bmvc2021-virtualconference.com/conference/papers/paper_0620.html)\]
+_BMVC 2021_ \[<span style="background-color: yellow;">**Best Student Paper (Runner up) award**</span>\] \[[paper](https://www.bmvc2021-virtualconference.com/conference/papers/paper_0620.html)\]
 3. **Multi-Domain Conditional Image Translation: Translating Driving Datasets from Clear-Weather to Adverse Conditions**  
 Vishal Vinod, K. Ram Prabhakar, R. Venkatesh Babu and Anirban Chakraborty  
 _1st ILDAV Workshop, ICCV 2021_
@@ -37,8 +36,7 @@ K. Ram Prabhakar, V H Krishna, M Nayak, J Gubbi, P Balamuralidhar
 _SPIE Remote Sensing Symposium 2021_ \[**Oral**\]
 3. **Labeled from Unlabeled: Exploiting Unlabeled Data for Few-shot Deep HDR Deghosting**  
 K. Ram Prabhakar, G Senthil, S Agrawal, R. V. Babu, R. K. Gorthi  
-_CVPR 2021_  
-\[[code](https://github.com/Susmit-A/FSHDR), [paper](https://openaccess.thecvf.com/content/CVPR2021/html/Prabhakar_Labeled_From_Unlabeled_Exploiting_Unlabeled_Data_for_Few-Shot_Deep_HDR_CVPR_2021_paper.html), [video](https://www.youtube.com/watch?v=JEnGSIRRVk8)\]
+_CVPR 2021_ \[[code](https://github.com/Susmit-A/FSHDR), [paper](https://openaccess.thecvf.com/content/CVPR2021/html/Prabhakar_Labeled_From_Unlabeled_Exploiting_Unlabeled_Data_for_Few-Shot_Deep_HDR_CVPR_2021_paper.html), [video](https://www.youtube.com/watch?v=JEnGSIRRVk8)\]
 3. **Towards Practical and Efficient High-Resolution HDR Deghosting with CNN**  
 K. Ram Prabhakar, S Agrawal, D K Singh, B Ashwath, R. Venkatesh Babu  
 _ECCV 2020_
