@@ -7,11 +7,11 @@ author_profile: true
 You can also find my articles on <u><a href="https://scholar.google.com/citations?user=gBhmvr8AAAAJ&hl=en">my Google Scholar profile</a>.</u>
 
 ## Journals
-0. **Self-Gated Memory Recurrent Network for Efficient Scalable HDR Deghosting**  
+1. **Self-Gated Memory Recurrent Network for Efficient Scalable HDR Deghosting**  
 K. Ram Prabhakar\*, Susmit Agarwal\*, and R. Venkatesh Babu  
 _IEEE Transactions on Computational Imaging 2021_  
 \[ [paper](https://ieeexplore.ieee.org/document/9540317?source=authoralert), [code](https://github.com/Susmit-A/HDRRNN) \]
-0. **PA-Fuse: A Deep Supervised Approach for Fusion of Photoacoustic Images with Distinct Reconstruction Characteristics**  
+1. **PA-Fuse: A Deep Supervised Approach for Fusion of Photoacoustic Images with Distinct Reconstruction Characteristics**  
 N. Awasthi, K. Ram Prabhakar, S. K. Kalva, M. Pramanik, R. Venkatesh Babu, and Phaneendra K. Yalavarthy  
 _JOSA Biomedical Optics Express 2019_
 
