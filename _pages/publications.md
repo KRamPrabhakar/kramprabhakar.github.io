@@ -27,7 +27,7 @@ K. Ram Prabhakar\*, V H Krishna\*, J Gubbi, A Pal, P Balamuralidhar
 _IEEE IGARSS 2022_
 1. **Few-Shot Domain Adaptation for Low Light RAW Image Enhancement**  
 K Ram Prabhakar, Vishal Vinod*, Nihar Ranjan Sahoo*, and R Venkatesh Babu  
-_BMVC 2021_ \[**Best Student Paper (Runner up) award**\]
+_BMVC 2021_ \[**Best Student Paper (Runner up) award**\] <span style="color:blue">**Best Student Paper (Runner up) award**</span>  
 1. **Multi-Domain Conditional Image Translation: Translating Driving Datasets from Clear-Weather to Adverse Conditions**  
 Vishal Vinod, K Ram Prabhakar, R. Venkatesh Babu and Anirban Chakraborty  
 _1st ILDAV Workshop, ICCV 2021_
