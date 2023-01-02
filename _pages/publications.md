@@ -14,3 +14,8 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+* Paper title  
+K. Ram Prabhakar, et al.  
+_ECCV 2020_
+* Paper title
