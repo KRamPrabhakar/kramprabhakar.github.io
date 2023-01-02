@@ -19,42 +19,42 @@ _JOSA Biomedical Optics Express 2019_
 3. **A Few-shot approach to MRI-based Knee Disorder Diagnosis using Fuzzy Layers**  
 Mohana Singh, K Ram Prabhakar, P Vishwanath, Murali Poduval, Arpan Pal, Jayavardhana Gubbi  
 _ICVGIP 2022_ \[**Oral**\]
-1. **Few-Shot Cross-Sensor Domain Adaptation between SAR and Multispectral Data**  
+3. **Few-Shot Cross-Sensor Domain Adaptation between SAR and Multispectral Data**  
 K. Ram Prabhakar, V H Krishna, J Gubbi, A Pal, P Balamuralidhar  
 _IEEE IGARSS 2022_
-1. **Improving SAR and Optical Image Fusion for LULC Classification with Domain Knowledge**  
+3. **Improving SAR and Optical Image Fusion for LULC Classification with Domain Knowledge**  
 K. Ram Prabhakar\*, V H Krishna\*, J Gubbi, A Pal, P Balamuralidhar  
 _IEEE IGARSS 2022_
-1. **Few-Shot Domain Adaptation for Low Light RAW Image Enhancement**  
+3. **Few-Shot Domain Adaptation for Low Light RAW Image Enhancement**  
 K Ram Prabhakar, Vishal Vinod*, Nihar Ranjan Sahoo*, and R Venkatesh Babu  
 _BMVC 2021_ \[<span style="color:blue">**Best Student Paper (Runner up) award**</span>\]  
-1. **Multi-Domain Conditional Image Translation: Translating Driving Datasets from Clear-Weather to Adverse Conditions**  
+3. **Multi-Domain Conditional Image Translation: Translating Driving Datasets from Clear-Weather to Adverse Conditions**  
 Vishal Vinod, K Ram Prabhakar, R. Venkatesh Babu and Anirban Chakraborty  
 _1st ILDAV Workshop, ICCV 2021_
-1. **Multi-scale Attention Guided Recurrent Neural Network for Deformation Map Forecasting**  
+3. **Multi-scale Attention Guided Recurrent Neural Network for Deformation Map Forecasting**  
 K Ram Prabhakar, V H Krishna, M Nayak, J Gubbi, P Balamuralidhar  
 _SPIE Remote Sensing Symposium 2021_ \[**Oral**\]
-1. **Labeled from Unlabeled: Exploiting Unlabeled Data for Few-shot Deep HDR Deghosting**  
+3. **Labeled from Unlabeled: Exploiting Unlabeled Data for Few-shot Deep HDR Deghosting**  
 K Ram Prabhakar, G Senthil, S Agrawal, R. V. Babu, R. K. Gorthi  
 _CVPR 2021_  
 \[code, paper, video\]
-1. **Towards Practical and Efficient High-Resolution HDR Deghosting with CNN**  
+3. **Towards Practical and Efficient High-Resolution HDR Deghosting with CNN**  
 K Ram Prabhakar, S Agrawal, D K Singh, B Ashwath, R. Venkatesh Babu  
 _ECCV 2020_
-1. **CDNet++: Improved Change Detection with Deep Neural Network Feature Correlation**  
+3. **CDNet++: Improved Change Detection with Deep Neural Network Feature Correlation**  
 K Ram Prabhakar, Akshaya Ramaswamy, Suvaansh Bhambri, Jayavardhana Gubbi, R. Venkatesh Babu, and B Purushothaman  
 _IJCNN 2020_
-1. **A fast, scalable and reliable deghosting method for extreme exposure fusion**  
+3. **A fast, scalable and reliable deghosting method for extreme exposure fusion**  
 K Ram Prabhakar\*, Rajat Arora\*, Adhitya Swaminathan, Kunal Pratap Singh, and R. Venkatesh Babu  
 _ICCP 2019_ \[**Oral**\]
-1. **DeepFuse: A Deep Unsupervised Approach for Exposure Fusion with Extreme Exposure Image Pairs**  
+3. **DeepFuse: A Deep Unsupervised Approach for Exposure Fusion with Extreme Exposure Image Pairs**  
 K Ram Prabhakar, V Sai Srikar and R. Venkatesh Babu  
 _ICCV 2017_
 \[code\]
-1. **Ghosting-Free Multi-Exposure Image Fusion in Gradient Domain**  
+3. **Ghosting-Free Multi-Exposure Image Fusion in Gradient Domain**  
 K Ram Prabhakar and R. Venkatesh Babu  
 _ICASSP 2016_
 \[code\]
-1. **Ghosting Free HDR for Dynamic Scenes via Shift-maps**  
+3. **Ghosting Free HDR for Dynamic Scenes via Shift-maps**  
 K Ram Prabhakar and R. Venkatesh Babu  
 _ICVGIP 2016_
