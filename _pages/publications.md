@@ -16,7 +16,7 @@ N. Awasthi, K. Ram Prabhakar, S. K. Kalva, M. Pramanik, R. Venkatesh Babu, and P
 _JOSA Biomedical Optics Express 2019_
 
 ## Conferences
-1. **A Few-shot approach to MRI-based Knee Disorder Diagnosis using Fuzzy Layers**  
+3. **A Few-shot approach to MRI-based Knee Disorder Diagnosis using Fuzzy Layers**  
 Mohana Singh, K Ram Prabhakar, P Vishwanath, Murali Poduval, Arpan Pal, Jayavardhana Gubbi  
 _ICVGIP 2022_ \[**Oral**\]
 1. **Few-Shot Cross-Sensor Domain Adaptation between SAR and Multispectral Data**  
