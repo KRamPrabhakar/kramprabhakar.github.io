@@ -58,9 +58,3 @@ _ICASSP 2016_
 1. **Ghosting Free HDR for Dynamic Scenes via Shift-maps**  
 K Ram Prabhakar and R. Venkatesh Babu  
 _ICVGIP 2016_
-
-<div class="input-color">
-    <input type="text" value="Orange" />
-    <div class="color-box" style="background-color: #FF850A;"></div>
-    <!-- Replace "#FF850A" to change the color -->
-</div>
