@@ -28,3 +28,12 @@ Nov 2021 | Teaching Assistant for Applied Machine Learning course
 Oct 2021 | Test 6
 Oct 2021 | Test 7
 Jun 2021 | Test 8
+Nov 2022 | Test 1
+Sep 2022 | Test 2
+Sep 2022 | Test 3
+Jun 2022 | Test 4
+Jun 2022 | Test 5
+Nov 2021 | Teaching Assistant for Applied Machine Learning course
+Oct 2021 | Test 6
+Oct 2021 | Test 7
+Jun 2021 | Test 8
