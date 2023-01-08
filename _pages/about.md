@@ -16,5 +16,4 @@ I am a postdoctoral researcher at Johns Hopkins University, advised by [Prof. Ra
 * [May 2022] Delivered guest lecture at IIT Jammu as part of the ''Research for Minds'' forum.
 * [April 2022] Delivered lecture at NIT Patna as part of FDP on AI & ML.
 * [April 2022] Two papers were accepted in IGARSS 2022!!
-* <sub><sup>Small text</sup></sub>
-* In his beard lived three <span style="color:red">cardinals</span>.
+* <sub>Small text</sup>
