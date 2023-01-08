@@ -17,3 +17,5 @@ I am a postdoctoral researcher at Johns Hopkins University, advised by [Prof. Ra
 * [April 2022] Delivered lecture at NIT Patna as part of FDP on AI & ML.
 * [April 2022] Two papers were accepted in IGARSS 2022!!
 * <sub>Small text</sup>
+* <font size="2"> Test </font>
+* <font size="4"> Test </font>
