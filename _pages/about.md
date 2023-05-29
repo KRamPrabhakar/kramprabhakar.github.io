@@ -18,9 +18,7 @@ I am a postdoctoral researcher at Johns Hopkins University, currently working un
 * <font size = "3"> [April 2022] Two papers were accepted in IGARSS 2022!! </font>
 
 <sub>
-
 - Item 1
 - Item 2
 - Item 3
-
 </sub>
