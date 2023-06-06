@@ -8,6 +8,7 @@ Multiexposure image fusion is a crucial task in computer vision and photography,
 
 Reference
 ---------
-1. **Author Name**, *Publication Title*, Publication Date.
-2. **Author Name**, *Publication Title*, Publication Date.
-3. **Author Name**, *Publication Title*, Publication Date.
+1. **K Ram Prabhakar** *et al.*, *Self-Gated Memory Recurrent Network for Efficient Scalable HDR Deghosting*, IEEE TCI 2021.
+2. **K Ram Prabhakar** *et al.*, *Labeled from Unlabeled: Exploiting Unlabeled Data for Few-shot Deep HDR Deghosting*, CVPR 2021.
+3. **K Ram Prabhakar** *et al.*, *Towards Practical and Efficient High-Resolution HDR Deghosting with CNN*, ECCV 2020.
+4. **K Ram Prabhakar** *et al.*, *DeepFuse: A Deep Unsupervised Approach for Exposure Fusion with Extreme Exposure Image Pairs*, ICCV 2017.
