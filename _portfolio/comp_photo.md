@@ -1,6 +1,6 @@
 ---
 title: "Computational Photography"
-excerpt: "Using ML techniques to fuse varying exposure images<br/><img src='/images/500x300.png'>"
+excerpt: ""
 collection: portfolio
 ---
 
