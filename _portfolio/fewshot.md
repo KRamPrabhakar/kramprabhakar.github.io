@@ -1,5 +1,5 @@
 ---
-title: "Few-shot learing"
+title: "Few-shot learning"
 excerpt: ""
 collection: portfolio
 ---
