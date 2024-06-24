@@ -16,8 +16,8 @@ _JOSA Biomedical Optics Express 2019_
 
 ## Conferences
 3. **Distillation-guided Representation Learning for Unconstrained Gait Recognition**
-Yuxiang Guo, Siyuan Huang, K. Ram Prabhakar, Chun Pong Lau, Rama Chellappa, Cheng Peng
-_IJCB 2024_
+   Yuxiang Guo, Siyuan Huang, K. Ram Prabhakar, Chun Pong Lau, Rama Chellappa, Cheng Peng
+   _IJCB 2024_
 3. **A Few-shot approach to MRI-based Knee Disorder Diagnosis using Fuzzy Layers**  
 Mohana Singh, K. Ram Prabhakar, P Vishwanath, Murali Poduval, Arpan Pal, Jayavardhana Gubbi  
 _ICVGIP 2022_ \[**Oral**\]
