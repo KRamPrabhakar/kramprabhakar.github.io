@@ -15,11 +15,11 @@ N. Awasthi, K. Ram Prabhakar, S. K. Kalva, M. Pramanik, R. Venkatesh Babu, and P
 _JOSA Biomedical Optics Express 2019_
 
 ## Conferences
-3. **Leveraging Thermal Modality to Enhance Reconstruction in Low-Light Conditions**
-Jiacong Xu, M. Liao, K. Ram Prabhakar and Vishal M. Patel
+3. **Leveraging Thermal Modality to Enhance Reconstruction in Low-Light Conditions**  
+Jiacong Xu, M. Liao, K. Ram Prabhakar and Vishal M. Patel  
 _ECCV 2024_
-3. **GAMMA-FACE: GAussian Mixture Models Amend Diffusion Models for Bias Mitigation in Face Images**
-Basudha Pal, Arun Kannan, K. Ram Prabhakar, Alice O. Toole, Rama Chellappa
+3. **GAMMA-FACE: GAussian Mixture Models Amend Diffusion Models for Bias Mitigation in Face Images**  
+Basudha Pal, Arun Kannan, K. Ram Prabhakar, Alice O. Toole, Rama Chellappa  
 _ECCV 2024_
 3. **Distillation-guided Representation Learning for Unconstrained Gait Recognition**  
 Yuxiang Guo, Siyuan Huang, K. Ram Prabhakar, Chun Pong Lau, Rama Chellappa, Cheng Peng  
