@@ -24,8 +24,8 @@ _ECCV 2024_
 3. **Distillation-guided Representation Learning for Unconstrained Gait Recognition**  
 Yuxiang Guo, Siyuan Huang, K. Ram Prabhakar, Chun Pong Lau, Rama Chellappa, Cheng Peng  
 _IJCB 2024_
-3. **Monitoring Urban Flooding Using SAR - A Mumbai Case Study**
-C. Banolia, K. R Prabhakar, S. Deshpande
+3. **Monitoring Urban Flooding Using SAR - A Mumbai Case Study**  
+C. Banolia, K. R Prabhakar, S. Deshpande  
 _ICDMAI 2023_
 3. **A Few-shot approach to MRI-based Knee Disorder Diagnosis using Fuzzy Layers**  
 Mohana Singh, K. Ram Prabhakar, P Vishwanath, Murali Poduval, Arpan Pal, Jayavardhana Gubbi  
