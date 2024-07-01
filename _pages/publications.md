@@ -19,7 +19,7 @@ _JOSA Biomedical Optics Express 2019_
 Jiacong Xu, M. Liao, K. Ram Prabhakar and Vishal M. Patel
 _ECCV 2024_
 3. **GAMMA-FACE: GAussian Mixture Models Amend Diffusion Models for Bias Mitigation in Face Images**
-Basudha Pal, Arun Kannan, K. Ram Prabhakar, Alice O. Toole, Rama Chellappa, 
+Basudha Pal, Arun Kannan, K. Ram Prabhakar, Alice O. Toole, Rama Chellappa
 _ECCV 2024_
 3. **Distillation-guided Representation Learning for Unconstrained Gait Recognition**  
 Yuxiang Guo, Siyuan Huang, K. Ram Prabhakar, Chun Pong Lau, Rama Chellappa, Cheng Peng  
