@@ -15,9 +15,18 @@ N. Awasthi, K. Ram Prabhakar, S. K. Kalva, M. Pramanik, R. Venkatesh Babu, and P
 _JOSA Biomedical Optics Express 2019_
 
 ## Conferences
+3. **Leveraging Thermal Modality to Enhance Reconstruction in Low-Light Conditions**
+Jiacong Xu, M. Liao, K. Ram Prabhakar and Vishal M. Patel
+_ECCV 2024_
+3. **GAMMA-FACE: GAussian Mixture Models Amend Diffusion Models for Bias Mitigation in Face Images**
+Basudha Pal, Arun Kannan, K. Ram Prabhakar, Alice O. Toole, Rama Chellappa, 
+_ECCV 2024_
 3. **Distillation-guided Representation Learning for Unconstrained Gait Recognition**  
 Yuxiang Guo, Siyuan Huang, K. Ram Prabhakar, Chun Pong Lau, Rama Chellappa, Cheng Peng  
 _IJCB 2024_
+3. **Monitoring Urban Flooding Using SAR - A Mumbai Case Study**
+C. Banolia, K. R Prabhakar, S. Deshpande
+_ICDMAI 2023_
 3. **A Few-shot approach to MRI-based Knee Disorder Diagnosis using Fuzzy Layers**  
 Mohana Singh, K. Ram Prabhakar, P Vishwanath, Murali Poduval, Arpan Pal, Jayavardhana Gubbi  
 _ICVGIP 2022_ \[**Oral**\]
