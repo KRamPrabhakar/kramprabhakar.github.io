@@ -15,6 +15,9 @@ N. Awasthi, K. Ram Prabhakar, S. K. Kalva, M. Pramanik, R. Venkatesh Babu, and P
 _JOSA Biomedical Optics Express 2019_
 
 ## Conferences
+3. **DiversiNet: Mitigating Bias in Deep Classification Networks across Sensitive Attributes through Diffusion-Generated Data**
+Basudha Pal, Aniket Roy, K. Ram Prabhakar, Alice O. Toole, Rama Chellappa
+_IJCB 2024 Special Session: Responsible AI for Biometrics_
 3. **Leveraging Thermal Modality to Enhance Reconstruction in Low-Light Conditions**  
 Jiacong Xu, M. Liao, K. Ram Prabhakar and Vishal M. Patel  
 _ECCV 2024_
