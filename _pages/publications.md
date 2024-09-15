@@ -15,10 +15,10 @@ N. Awasthi, K. Ram Prabhakar, S. K. Kalva, M. Pramanik, R. Venkatesh Babu, and P
 _JOSA Biomedical Optics Express 2019_
 
 ## Conferences
-3. **HyperGait: A Video-based Multitask Network for Gait Recognition and Human Attribute Estimation at Range and Altitude**
+3. **HyperGait: A Video-based Multitask Network for Gait Recognition and Human Attribute Estimation at Range and Altitude**  
 Zhaoyang Wang, Jiang Liu, K. Ram Prabhakar, Chun Pong Lau, Rama Chellappa  
 _IJCB 2024 Special Session: Recognition at Long Range and from High Altitude_
-3. **DiversiNet: Mitigating Bias in Deep Classification Networks across Sensitive Attributes through Diffusion-Generated Data**
+3. **DiversiNet: Mitigating Bias in Deep Classification Networks across Sensitive Attributes through Diffusion-Generated Data**  
 Basudha Pal, Aniket Roy, K. Ram Prabhakar, Alice O. Toole, Rama Chellappa  
 _IJCB 2024 Special Session: Responsible AI for Biometrics_
 3. **Leveraging Thermal Modality to Enhance Reconstruction in Low-Light Conditions**  
