@@ -29,7 +29,7 @@ Basudha Pal, Arun Kannan, K. Ram Prabhakar, Alice O. Toole, Rama Chellappa
 _ECCV 2024_
 3. **Distillation-guided Representation Learning for Unconstrained Gait Recognition**  
 Yuxiang Guo, Siyuan Huang, K. Ram Prabhakar, Chun Pong Lau, Rama Chellappa, Cheng Peng  
-_IJCB 2024_
+_IJCB 2024_ \[<span style="background-color: yellow;">**IAPR Best Biometrics Student Paper Award**</span>\]
 3. **Monitoring Urban Flooding Using SAR - A Mumbai Case Study**  
 C. Banolia, K. R Prabhakar, S. Deshpande  
 _ICDMAI 2023_
