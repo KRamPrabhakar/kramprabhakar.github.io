@@ -7,6 +7,9 @@ author_profile: true
 You can also find my articles on <u><a href="https://scholar.google.com/citations?user=gBhmvr8AAAAJ&hl=en">my Google Scholar profile</a>.</u>
 
 ## Journals
+1. **Whole-body detection, recognition and identification at altitude and range**
+Siyuan Huang, K. Ram Prabhakar, Yuxiang Guo, Chun Pong Lau, and Rama Chellappa
+_IEEE Transactions on Biometrics, Behavior, and Identity Science (TBIOM) 2024_ \[[paper](https://scholar.google.co.in/citations?view_op=view_citation&hl=en&user=gBhmvr8AAAAJ&sortby=pubdate&citation_for_view=gBhmvr8AAAAJ:4TOpqqG69KYC)\]
 1. **Self-Gated Memory Recurrent Network for Efficient Scalable HDR Deghosting**  
 K. Ram Prabhakar\*, Susmit Agarwal\*, and R. Venkatesh Babu  
 _IEEE Transactions on Computational Imaging 2021_ \[[paper](https://ieeexplore.ieee.org/document/9540317?source=authoralert), [code](https://github.com/Susmit-A/HDRRNN)\]
