@@ -18,6 +18,9 @@ N. Awasthi, K. Ram Prabhakar, S. K. Kalva, M. Pramanik, R. Venkatesh Babu, and P
 _JOSA Biomedical Optics Express 2019_
 
 ## Conferences
+3. **VILLS : Video-Image Learning to Learn Semantics for Person Re-Identification**  
+Siyuan Huang, K. Ram Prabhakar, Yuxiang Guo, Rama Chellappa, Cheng Peng  
+_WACV 2025_
 3. **HyperGait: A Video-based Multitask Network for Gait Recognition and Human Attribute Estimation at Range and Altitude**  
 Zhaoyang Wang, Jiang Liu, K. Ram Prabhakar, Chun Pong Lau, Rama Chellappa  
 _IJCB 2024 Special Session: Recognition at Long Range and from High Altitude_
