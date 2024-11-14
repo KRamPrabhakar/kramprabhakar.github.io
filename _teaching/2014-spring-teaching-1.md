@@ -2,12 +2,12 @@
 title: "Deep Learning for Computer Vision"
 collection: teaching
 type: "Graduate course"
-permalink: [/teaching/2014-spring-teaching-1](https://val.cds.iisc.ac.in/DLCV//)
+permalink: /teaching/2014-spring-teaching-1
 venue: "Indian Institute of Science Bangalore, Department of Computational and Data Sciences"
 date: 2014-01-01
 location: "Bangalore, India"
 ---
-
+[website](https://val.cds.iisc.ac.in/DLCV//)
 This is a description of a teaching experience. You can use markdown like any other post.
 
 Heading 1
