@@ -2,9 +2,9 @@
 title: "Deep Learning for Computer Vision"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: https://val.cds.iisc.ac.in/DLCV//
 venue: "Indian Institute of Science Bangalore, Department of Computational and Data Sciences"
-date: 2014-01-01
+date: 2013, 2014
 location: "Bangalore, India"
 ---
 [website](https://val.cds.iisc.ac.in/DLCV//)
