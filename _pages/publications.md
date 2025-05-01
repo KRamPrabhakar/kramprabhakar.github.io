@@ -18,6 +18,9 @@ N. Awasthi, K. Ram Prabhakar, S. K. Kalva, M. Pramanik, R. Venkatesh Babu, and P
 _JOSA Biomedical Optics Express 2019_
 
 ## Conferences
+3. **Improved Representation Learning for Unconstrained Face Recognition**  
+Nithin Nair, Kartik Narayan, Maitreya Suin, K. Ram Prabhakar, Jennifer, Soraya Stevens, Joshua Gleason, Nathan Shnidman, Rama Chellappa, Vishal Patel  
+_FG 2025_
 3. **VILLS : Video-Image Learning to Learn Semantics for Person Re-Identification**  
 Siyuan Huang, K. Ram Prabhakar, Yuxiang Guo, Rama Chellappa, Cheng Peng  
 _WACV 2025_
