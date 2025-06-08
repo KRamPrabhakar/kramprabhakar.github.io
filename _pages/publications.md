@@ -18,14 +18,6 @@ N. Awasthi, K. Ram Prabhakar, S. K. Kalva, M. Pramanik, R. Venkatesh Babu, and P
 _JOSA Biomedical Optics Express 2019_
 
 ## Conferences
-<ol start="4">
-  <li>
-    **Improved Representation Learning for Unconstrained Face Recognition**  
-    Nithin Nair, Kartik Narayan, Maitreya Suin, K. Ram Prabhakar, Jennifer, Soraya Stevens, Joshua Gleason, Nathan Shnidman, Rama Chellappa, Vishal Patel  
-    _FG 2025_
-  </li>
-</ol>
-
 4. **Improved Representation Learning for Unconstrained Face Recognition**  
 Nithin Nair, Kartik Narayan, Maitreya Suin, K. Ram Prabhakar, Jennifer, Soraya Stevens, Joshua Gleason, Nathan Shnidman, Rama Chellappa, Vishal Patel  
 _FG 2025_
