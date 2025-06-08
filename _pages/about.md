@@ -24,18 +24,18 @@ I am a Assistant Research Scientist at Johns Hopkins University, currently worki
 
 <div class="news-box">
 <ul style="list-style-type:none;">
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
+  <li>Test</li>
+  <li>Test</li>
+  <li>Test</li>
+  <li>Test</li>
+  <li>Test</li>
+  <li>Test</li>
+  <li>Test</li>
+  <li>Test</li>
+  <li>Test</li>
+  <li>Test</li>
+  <li>Test</li>
+  <li>Test</li>
 </ul> 
 </div>
 
