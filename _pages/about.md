@@ -30,23 +30,6 @@ I am a Assistant Research Scientist at Johns Hopkins University, currently worki
 </ul> 
 </div>
 
-<div class="news">
-  <h2>News</h2>
-  <div class="table-responsive" style="max-height: 18vw">
-      <table class="table table-sm table-borderless">          
-        <tbody>
-          <tr> <th scope="row">April, 2025</th><td>One paper accepted in FG 2025!</td></tr>      
-          <tr> <th scope="row">October, 2024</th><td>One paper accepted in WACV 2025!</td></tr>    
-          <tr> <th scope="row">October, 2024</th><td>One paper accepted in IEEE TBIOM!</td></tr>    
-          <tr> <th scope="row">September, 2024</th><td>Our IJCB 2024 paper received IAPR Best Biometrics Student Paper Award! Congrats Yuxiang!</td></tr>    
-          <tr> <th scope="row">July, 2024</th><td>One paper accepted in IJCB 2024 special session on Recognition at Long Range and from High Altitude!</td></tr>    
-          <tr> <th scope="row">July, 2024</th><td>One paper accepted in IJCB 2024 special session AI4BIO!</td></tr>    
-          <tr> <th scope="row">July, 2024</th><td>Two papers accepted in ECCV 2024!</td></tr>    
-          <tr> <th scope="row">July, 2024</th><td>One paper accepted in IJCB 2024!</td></tr>    
-        </tbody></table>
-      </div> 
-  </div>
-
 <!-- This is a comment 
 [comment]: # * <font size = "3"> [October 2022] One paper accepted in ICVGIP 2022! </font> [April 2025] One paper accepted in FG 2025!
 [comment]: # * <font size = "3"> [July 2022] Joined JHU as Postdoc. </font>
