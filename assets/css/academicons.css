@@ -325,3 +325,13 @@
 .fa.fa-pull-right {
   margin-left: .3em;
 }
+.news-box {
+  max-height: 300px;       /* adjust to taste */
+  overflow-y: auto;        /* enables vertical scrolling */
+  padding: 0.5em 1em;
+  border: 1px solid #ddd;
+  background: #fafafa;
+  line-height: 1.4;
+  font-size: 0.95rem;
+}
+.news-box li { margin-bottom: 0.5em; }
