@@ -349,7 +349,7 @@
 
 .news-box td.date {
   font-weight: bold;
-  width: 8ch;               /* fix to roughly “MMM DD, YYYY” width */
+  width: 12ch;               /* fix to roughly “MMM DD, YYYY” width */
   padding-right: 0.5em;     /* space before the text column */
 }
 
