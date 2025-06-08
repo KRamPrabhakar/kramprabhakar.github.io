@@ -326,27 +326,32 @@
   margin-left: .3em;
 }
 .news-box {
-  max-height: 300px;       /* adjust to taste */
-  overflow-y: auto;        /* enables vertical scrolling */
+  max-height: 300px;
+  overflow-y: auto;
   padding: 0.5em 1em;
   border: 1px solid #ddd;
   background: #fafafa;
-  line-height: 1.4;
-  font-size: 0.9rem;
+  font-size: 0.95rem;
+  line-height: 1.2;         /* tighter lines */
 }
-.news-box li { margin-bottom: 0.5em; }
-.table-responsive {
-    display: block;
-    width: 100%;
-    overflow-x: auto;
-    -webkit-overflow-scrolling: touch;
+
+.news-box table {
+  width: 100%;
+  border-collapse: collapse;
 }
-table {
-    display: table;
-    border-collapse: separate;
-    box-sizing: border-box;
-    text-indent: initial;
-    unicode-bidi: isolate;
-    border-spacing: 2px;
-    border-color: gray;
+
+.news-box td {
+  vertical-align: top;
+  padding: 0.2em 0;         /* minimal vertical padding */
+  text-align: left;
+}
+
+.news-box td.date {
+  font-weight: bold;
+  width: 8ch;               /* fix to roughly “MMM DD, YYYY” width */
+  padding-right: 0.5em;     /* space before the text column */
+}
+
+.news-box td.item {
+  /* takes up the rest of the width */
 }
