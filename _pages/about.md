@@ -20,6 +20,17 @@ I am a Assistant Research Scientist at Johns Hopkins University, currently worki
 * <font size = "3"> [July 2024] Two papers accepted in ECCV 2024! </font>
 * <font size = "3"> [June 2024] One paper accepted in IJCB 2024! </font>
 
+## News
+
+<div class="news-box">
+- **May 20, 2025** I am serving as an Area Chair for -.  
+- **Feb 26, 2025** -  
+- **Jul 1, 2024** -  
+- **Jun 7, 2024** I’ll be attending CVPR 2025 in person June 16–22.  
+- **…**  
+</div>
+
+
 <!-- This is a comment 
 [comment]: # * <font size = "3"> [October 2022] One paper accepted in ICVGIP 2022! </font>
 [comment]: # * <font size = "3"> [July 2022] Joined JHU as Postdoc. </font>
