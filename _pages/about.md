@@ -27,21 +27,21 @@ I am a Assistant Research Scientist at Johns Hopkins University, currently worki
   <li>Test</li>
   <li>Test</li>
   <li>Test</li>
-  <li>Test</li>
-  <li>Test</li>
-  <li>Test</li>
-  <li>Test</li>
-  <li>Test</li>
-  <li>Test</li>
-  <li>Test</li>
-  <li>Test</li>
-  <li>Test</li>
 </ul> 
 </div>
 
+<div class="news">
+  <h2>News</h2>
+  <div class="table-responsive" style="max-height: 18vw">
+      <table class="table table-sm table-borderless">          
+        <tbody>
+          <tr> <th scope="row">April, 2025</th><td>One paper accepted in FG 2025!</td></tr>      
+        </tbody></table>
+      </div> 
+  </div>
 
 <!-- This is a comment 
-[comment]: # * <font size = "3"> [October 2022] One paper accepted in ICVGIP 2022! </font>
+[comment]: # * <font size = "3"> [October 2022] One paper accepted in ICVGIP 2022! </font> [April 2025] One paper accepted in FG 2025!
 [comment]: # * <font size = "3"> [July 2022] Joined JHU as Postdoc. </font>
 [comment]: # * <font size = "3"> [May 2022] Delivered guest lecture at IIT Jammu. </font>
 [comment]: # * <font size = "3"> [April 2022] Delivered lecture at NIT Patna. </font>
