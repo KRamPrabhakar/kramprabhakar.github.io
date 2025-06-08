@@ -22,10 +22,10 @@ I am a Assistant Research Scientist at Johns Hopkins University, currently worki
 
 ## News
 <div class="news-box">
-  <table>
+  <table class="news-box table">
     <tr>
-      <td class="date">April 2025</td>
-      <td class="item">One paper accepted in FG 2025!</td>
+      <td class="news-box td.date">April 2025</td>
+      <td class="news-box td.item">One paper accepted in FG 2025!</td>
     </tr>
     <tr>
       <td class="date">October 2024</td>
