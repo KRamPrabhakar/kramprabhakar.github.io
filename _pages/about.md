@@ -24,8 +24,8 @@ I am a Assistant Research Scientist at Johns Hopkins University, currently worki
 <div class="news-box">
   <table class="news-box table">
     <tr>
-      <td class="news-box td.date">April 2025</td>
-      <td class="news-box td.item">One paper accepted in FG 2025!</td>
+      <td class="date">April 2025</td>
+      <td class="item">One paper accepted in FG 2025!</td>
     </tr>
     <tr>
       <td class="date">October 2024</td>
@@ -36,8 +36,8 @@ I am a Assistant Research Scientist at Johns Hopkins University, currently worki
       <td class="item">One paper accepted in IEEE TBIOM!</td>
     </tr>
     <tr>
-      <td class="news-box td.date">September 2024</td>
-      <td class="news-box td.item">Our IJCB 2024 paper received IAPR Best Biometrics Student Paper Award! Congrats Yuxiang!</td>
+      <td class="date">Sept 2024</td>
+      <td class="item">Our IJCB 2024 paper received IAPR Best Biometrics Student Paper Award! Congrats Yuxiang!</td>
     </tr>
     <tr>
       <td class="date">July 2024</td>
