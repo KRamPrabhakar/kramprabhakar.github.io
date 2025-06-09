@@ -24,35 +24,35 @@ I am a Assistant Research Scientist at Johns Hopkins University, currently worki
 <div class="news-box">
   <table class="news-box table">
     <tr>
-      <td class="date">April 2025</td>
+      <td class="date">Apr 2025</td>
       <td class="item">One paper accepted in FG 2025!</td>
     </tr>
     <tr>
-      <td class="date">October 2024</td>
+      <td class="date">Oct 2024</td>
       <td class="item">One paper accepted in WACV 2025!</td>
     </tr>
     <tr>
-      <td class="date">October 2024</td>
+      <td class="date">Oct 2024</td>
       <td class="item">One paper accepted in IEEE TBIOM!</td>
     </tr>
     <tr>
-      <td class="date">Sept 2024</td>
+      <td class="date">Sep 2024</td>
       <td class="item">Our IJCB 2024 paper received IAPR Best Biometrics Student Paper Award! Congrats Yuxiang!</td>
     </tr>
     <tr>
-      <td class="date">July 2024</td>
+      <td class="date">Jul 2024</td>
       <td class="item">One paper accepted in IJCB 2024 special session on Recognition at Long Range and from High Altitude!</td>
     </tr>
     <tr>
-      <td class="date">July 2024</td>
+      <td class="date">Jul 2024</td>
       <td class="item">One paper accepted in IJCB 2024 special session AI4BIO!</td>
     </tr>
     <tr>
-      <td class="date">July 2024</td>
+      <td class="date">Jul 2024</td>
       <td class="item">Two papers accepted in ECCV 2024!</td>
     </tr>
     <tr>
-      <td class="date">July 2024</td>
+      <td class="date">Jul 2024</td>
       <td class="item">One paper accepted in IJCB 2024!</td>
     </tr>
     <!-- …and so on… -->
