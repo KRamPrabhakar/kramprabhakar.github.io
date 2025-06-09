@@ -37,11 +37,11 @@ I am a Assistant Research Scientist at Johns Hopkins University, currently worki
     </tr>
     <tr>
       <td class="news-box td.date">Sep'24</td>
-      <td class="item">Our IJCB 2024 paper received IAPR Best Biometrics Student Paper Award! Congrats Yuxiang!</td>
+      <td class="item">Our IJCB 2024 paper received IAPR Best Biometrics Student Paper Award! </td>
     </tr>
     <tr>
       <td class="news-box td.date">Jul'24</td>
-      <td class="item">One paper accepted in IJCB 2024 special session on Recognition at Long Range and from High Altitude!</td>
+      <td class="item">One paper accepted in IJCB 2024!</td>
     </tr>
     <tr>
       <td class="news-box td.date">Jul'24</td>
