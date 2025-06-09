@@ -338,6 +338,7 @@
   width: 100%;
   border-collapse: collapse;
   border: none;
+  border-spacing: 0;
 }
 
 .news-box td {
