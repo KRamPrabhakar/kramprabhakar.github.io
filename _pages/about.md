@@ -24,35 +24,35 @@ I am a Assistant Research Scientist at Johns Hopkins University, currently worki
 <div class="news-box">
   <table class="news-box table">
     <tr>
-      <td class="date">Apr'25</td>
+      <td class="news-box td.date">Apr'25</td>
       <td class="item">One paper accepted in FG 2025!</td>
     </tr>
     <tr>
-      <td class="date">Oct'24</td>
+      <td class="news-box td.date">Oct'24</td>
       <td class="item">One paper accepted in WACV 2025!</td>
     </tr>
     <tr>
-      <td class="date">Oct'24</td>
+      <td class="news-box td.date">Oct'24</td>
       <td class="item">One paper accepted in IEEE TBIOM!</td>
     </tr>
     <tr>
-      <td class="date">Sep'24</td>
+      <td class="news-box td.date">Sep'24</td>
       <td class="item">Our IJCB 2024 paper received IAPR Best Biometrics Student Paper Award! Congrats Yuxiang!</td>
     </tr>
     <tr>
-      <td class="date">Jul'24</td>
+      <td class="news-box td.date">Jul'24</td>
       <td class="item">One paper accepted in IJCB 2024 special session on Recognition at Long Range and from High Altitude!</td>
     </tr>
     <tr>
-      <td class="date">Jul'24</td>
+      <td class="news-box td.date">Jul'24</td>
       <td class="item">One paper accepted in IJCB 2024 special session AI4BIO!</td>
     </tr>
     <tr>
-      <td class="date">Jul'24</td>
+      <td class="news-box td.date">Jul'24</td>
       <td class="item">Two papers accepted in ECCV 2024!</td>
     </tr>
     <tr>
-      <td class="date">Jul'24</td>
+      <td class="news-box td.date">Jul'24</td>
       <td class="item">One paper accepted in IJCB 2024!</td>
     </tr>
     <!-- …and so on… -->
