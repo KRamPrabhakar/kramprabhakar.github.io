@@ -7,6 +7,9 @@ author_profile: true
 You can also find my articles on [Google scholar](https://scholar.google.com/citations?user=gBhmvr8AAAAJ&hl=en).
 
 ## Journals
+1. **Distillation-guided Representation Learning for Unconstrained Video Human Authentication**  
+Yuxiang Guo, Siyuan Huang, K. Ram Prabhakar, Chun Pong Lau, Rama Chellappa and Cheng Peng  
+_IEEE Transactions on Biometrics, Behavior, and Identity Science (TBIOM) 2025_
 1. **Whole-body detection, recognition and identification at altitude and range**  
 Siyuan Huang, K. Ram Prabhakar, Yuxiang Guo, Chun Pong Lau, and Rama Chellappa  
 _IEEE Transactions on Biometrics, Behavior, and Identity Science (TBIOM) 2024_ \[[paper](https://scholar.google.co.in/citations?view_op=view_citation&hl=en&user=gBhmvr8AAAAJ&sortby=pubdate&citation_for_view=gBhmvr8AAAAJ:4TOpqqG69KYC)\] \[[project page](https://cyanh1876.github.io/TBIOM2024/index.html)\]
