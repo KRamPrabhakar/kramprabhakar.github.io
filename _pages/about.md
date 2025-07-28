@@ -25,6 +25,10 @@ I am a Assistant Research Scientist at Johns Hopkins University, currently worki
   <table class="news-box table">
     <tr>
       <td class="news-box td.date">Apr'25</td>
+      <td class="item">One paper accepted in IEEE TBIOM 2025!</td>
+    </tr>
+    <tr>
+      <td class="news-box td.date">Apr'25</td>
       <td class="item">One paper accepted in FG 2025!</td>
     </tr>
     <tr>
