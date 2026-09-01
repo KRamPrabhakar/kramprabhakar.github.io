@@ -24,6 +24,10 @@ I am a Assistant Professor at Wadhwani School of Data Science & Artificial Intel
 <div class="news-box">
   <table class="news-box table">
     <tr>
+      <td class="news-box td.date">Aug'26</td>
+      <td class="item">Started faculty position at IIT Madras!</td>
+    </tr>
+    <tr>
       <td class="news-box td.date">Jul'25</td>
       <td class="item">One paper accepted in IEEE TBIOM 2025!</td>
     </tr>
@@ -31,7 +35,7 @@ I am a Assistant Professor at Wadhwani School of Data Science & Artificial Intel
       <td class="news-box td.date">Apr'25</td>
       <td class="item">One paper accepted in FG 2025!</td>
     </tr>
-    <tr>
+    <!-- <tr>
       <td class="news-box td.date">Oct'24</td>
       <td class="item">One paper accepted in WACV 2025!</td>
     </tr>
@@ -58,7 +62,7 @@ I am a Assistant Professor at Wadhwani School of Data Science & Artificial Intel
     <tr>
       <td class="news-box td.date">Jul'24</td>
       <td class="item">One paper accepted in IJCB 2024!</td>
-    </tr>
+    </tr> -->
     <!-- …and so on… -->
   </table>
 </div>
