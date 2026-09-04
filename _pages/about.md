@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Assistant Professor at Wadhwani School of Data Science & Artificial Intelligence, IIT Madras. Previously, I worked under the guidance of [Prof. Rama Chellappa](https://engineering.jhu.edu/ece/faculty/rama-chellappa/). I obtained my Ph.D. from the Video Analytics Lab at the [Computational and Data Sciences](http://cds.iisc.ac.in/) department of the Indian Institute of Science, where I was fortunate to be advised by [Prof. R. Venkatesh babu](http://cds.iisc.ac.in/faculty/venky/). My research primarily focuses on computer vision, computational photography, with a particular interest in High Dynamic Range (HDR) imaging, 3D computer vision and image processing. For a comprehensive overview of my work, please visit the [Research](portfolio/) and [Publications](publications/) page.
+I am a Assistant Professor at Wadhwani School of Data Science & Artificial Intelligence, IIT Madras. Previously, I worked as a Assistant Research Scientist under the guidance of [Prof. Rama Chellappa](https://engineering.jhu.edu/ece/faculty/rama-chellappa/) at Johns Hopkins University. I obtained my Ph.D. from the Video Analytics Lab at the [Computational and Data Sciences](http://cds.iisc.ac.in/) department of the Indian Institute of Science, where I was fortunate to be advised by [Prof. R. Venkatesh babu](http://cds.iisc.ac.in/faculty/venky/). My research primarily focuses on computer vision, computational photography, with a particular interest in long video understanding, VLM compositional reasoning and 3D computer vision. For a comprehensive overview of my work, please visit the [Research](portfolio/) and [Publications](publications/) page.
 
 <!-- 
 * <font size = "3"> [April 2025] One paper accepted in FG 2025! </font>
