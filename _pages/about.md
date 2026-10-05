@@ -1,77 +1,220 @@
 ---
+layout: about
+title: Home
 permalink: /
-title: "About me"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+subtitle: >
+  Assistant Professor,
+  <a href="https://wsai.iitm.ac.in" target="_blank">
+  Dept. of Data Science and AI</a> · <a href="https://www.iitm.ac.in/" target="_blank">
+  IIT Madras</a> 
+
+profile:
+  align: left
+  image: profile.png
+  image_circular: false
+  more_info:
+  image_size: "180px"
+
+news: false
+announcements:
+  enabled: false
+news_limit: 6
+selected_papers: true
+social: false
 ---
 
-I am a Assistant Professor at Wadhwani School of Data Science & Artificial Intelligence, IIT Madras. Previously, I worked as a Assistant Research Scientist under the guidance of [Prof. Rama Chellappa](https://engineering.jhu.edu/ece/faculty/rama-chellappa/) at Johns Hopkins University. I obtained my Ph.D. from the Video Analytics Lab at the [Computational and Data Sciences](http://cds.iisc.ac.in/) department of the Indian Institute of Science, where I was fortunate to be advised by [Prof. R. Venkatesh babu](http://cds.iisc.ac.in/faculty/venky/). My research primarily focuses on computer vision, computational photography, with a particular interest in long video understanding, VLM compositional reasoning and 3D computer vision. For a comprehensive overview of my work, please visit the [Research](portfolio/) and [Publications](publications/) page.
+<!-- **Assistant Professor,**
+[Department of Data Science and AI](https://wsai.iitm.ac.in)
+at [IIT Madras](https://www.iitm.ac.in) -->
 
-<!-- 
-* <font size = "3"> [April 2025] One paper accepted in FG 2025! </font>
-* <font size = "3"> [October 2024] One paper accepted in WACV 2025! </font>
-* <font size = "3"> [October 2024] One paper accepted in IEEE TBIOM! </font>
-* <font size = "3"> [September 2024] Our IJCB 2024 paper received IAPR Best Biometrics Student Paper Award! Congrats Yuxiang! </font>
-* <font size = "3"> [July 2024] One paper accepted in IJCB 2024 special session on Recognition at Long Range and from High Altitude! </font>
-* <font size = "3"> [July 2024] One paper accepted in IJCB 2024 special session AI4BIO! </font>
-* <font size = "3"> [July 2024] Two papers accepted in ECCV 2024! </font>
-* <font size = "3"> [June 2024] One paper accepted in IJCB 2024! </font> 
--->
-## News
-<div class="news-box">
-  <table class="news-box table">
-    <tr>
-      <td class="news-box td.date">Aug'26</td>
-      <td class="item">Started faculty position at IIT Madras!</td>
-    </tr>
-    <tr>
-      <td class="news-box td.date">Jul'25</td>
-      <td class="item">One paper accepted in IEEE TBIOM 2025!</td>
-    </tr>
-    <tr>
-      <td class="news-box td.date">Apr'25</td>
-      <td class="item">One paper accepted in FG 2025!</td>
-    </tr>
-    <!-- <tr>
-      <td class="news-box td.date">Oct'24</td>
-      <td class="item">One paper accepted in WACV 2025!</td>
-    </tr>
-    <tr>
-      <td class="news-box td.date">Oct'24</td>
-      <td class="item">One paper accepted in IEEE TBIOM!</td>
-    </tr>
-    <tr>
-      <td class="news-box td.date">Sep'24</td>
-      <td class="item">Our IJCB 2024 paper received IAPR Best Biometrics Student Paper Award! </td>
-    </tr>
-    <tr>
-      <td class="news-box td.date">Jul'24</td>
-      <td class="item">One paper accepted in IJCB 2024!</td>
-    </tr>
-    <tr>
-      <td class="news-box td.date">Jul'24</td>
-      <td class="item">One paper accepted in IJCB 2024 special session AI4BIO!</td>
-    </tr>
-    <tr>
-      <td class="news-box td.date">Jul'24</td>
-      <td class="item">Two papers accepted in ECCV 2024!</td>
-    </tr>
-    <tr>
-      <td class="news-box td.date">Jul'24</td>
-      <td class="item">One paper accepted in IJCB 2024!</td>
-    </tr> -->
-    <!-- …and so on… -->
-  </table>
+My research group, the **Artificial Perception X (APX)** Lab, investigates core problems in **computer vision** and **deep learning**.
+
+<!-- My research group, the [Artificial Perception X (APX) Lab](https://apx-lab.github.io), investigates core problems in **computer vision** and **deep learning**. -->
+
+Our research focuses on building machines that can **perceive, understand, and reason** about the visual world - developing methods that are robust, efficient, and generalizable across diverse real-world conditions.
+
+[Full bio →](/bio){: .bio-link}
+
+---
+
+<div class="simple-social">
+  <a href="https://scholar.google.com/citations?user=gBhmvr8AAAAJ"
+     target="_blank">Google scholar</a>
+  <span>/</span>
+  <span class="email-obf"
+        data-user="ram"
+        data-domain="dsai.iitm.ac.in">
+  </span>
+  <span>/</span>
+  <a href="/assets/pdf/cv.pdf"
+     target="_blank">CV</a>
 </div>
 
+<script>
+document.querySelectorAll('.email-obf').forEach(function(el) {
+  el.style.cursor = 'pointer';
+  el.addEventListener('click', function() {
+    var user = el.getAttribute('data-user');
+    var domain = el.getAttribute('data-domain');
+    window.location.href = 'mailto:' + user + '@' + domain;
+  });
+});
+</script>
 
-<!-- This is a comment 
-[comment]: # * <font size = "3"> [October 2022] One paper accepted in ICVGIP 2022! </font> [April 2025] One paper accepted in FG 2025!
-[comment]: # * <font size = "3"> [July 2022] Joined JHU as Postdoc. </font>
-[comment]: # * <font size = "3"> [May 2022] Delivered guest lecture at IIT Jammu. </font>
-[comment]: # * <font size = "3"> [April 2022] Delivered lecture at NIT Patna. </font>
-[comment]: # * <font size = "3"> [April 2022] Two papers were accepted in IGARSS 2022!! </font>
--->
+<style>
+.email-obf::before {
+  content: attr(data-user) "\0040" attr(data-domain);
+  color: #4a7ab5;
+  cursor: pointer;
+  font-size: 0.85rem;
+}
+.email-obf:hover::before { text-decoration: underline; }
+.simple-social { margin-top: 0.8rem; font-size: 0.85rem; }
+.simple-social a { color: #4a7ab5; text-decoration: none; }
+.simple-social a:hover { text-decoration: underline; }
+.simple-social .sep { color: #999; margin: 0 0.3rem; }
+/* Openings strip */
+.openings-strip {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem;
+  margin: 1.5rem 0;
+  padding: 0.8rem 1rem;
+  background-color: #f8f9fa;
+  border-left: 3px solid #A51C30;
+  border-radius: 0 4px 4px 0;
+  font-size: 0.85rem;
+}
+
+.openings-label {
+  font-weight: 600;
+  color: #A51C30;
+  margin-right: 0.3rem;
+}
+
+.opening-tag {
+  display: inline-block;
+  font-size: 0.75rem;
+  font-weight: 500;
+  padding: 0.15rem 0.6rem;
+  border: 1px solid #A51C30;
+  border-radius: 20px;
+  color: #A51C30 !important;
+  text-decoration: none !important;
+  transition: all 0.15s ease;
+}
+
+.opening-tag:hover {
+  background-color: #A51C30;
+  color: white !important;
+}
+
+/* Dark mode */
+html[data-theme='dark'] .openings-strip {
+  background-color: #1e1515;
+  border-left-color: #d4526a;
+}
+
+html[data-theme='dark'] .openings-label {
+  color: #d4526a;
+}
+
+html[data-theme='dark'] .opening-tag {
+  border-color: #d4526a;
+  color: #d4526a !important;
+}
+
+html[data-theme='dark'] .opening-tag:hover {
+  background-color: #d4526a;
+  color: white !important;
+}
+</style>
+
+<div class="openings-strip">
+  <span class="openings-label">We are hiring →</span>
+  <a href="/join/" class="opening-tag">PhD</a>
+  <a href="/join/" class="opening-tag">MS</a>
+  <a href="/join/" class="opening-tag">Intern</a>
+  <a href="/join/" class="opening-tag">Project Associate</a>
+  <!-- <a href="/join/" class="opening-tag">Postdoc</a> -->
+</div>
+
+<div style="clear:both; margin-top: 3rem;"></div>
+
+<h2 class="news-heading">What's new</h2>
+
+<table class="news-table">
+{% assign news_items = site.data.news.news | limit: 6 %}
+{% for item in news_items %}
+<tr>
+  <td class="news-date">{{ item.date }}</td>
+  <td class="news-text">{{ item.text }}</td>
+</tr>
+{% endfor %}
+</table>
+
+<div style="margin-bottom: 3rem;"></div>
+
+<!-- <div class="news-section" style="margin-bottom: 3rem;">
+
+## What's new
+
+{% assign news_items = site.data.news.news | limit: 6 %}
+<table class="news-table">
+{% for item in news_items %}
+<tr>
+  <td class="news-date">{{ item.date }}</td>
+  <td class="news-text">{{ item.text }}</td>
+</tr>
+{% endfor %}
+</table>
+</div> -->
+<!-- 
+<style>
+.news-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.88rem;
+  margin-top: 1rem;
+}
+.news-table tr {
+  border-bottom: 1px solid #e8e8e8;
+  border-left: 3px solid transparent;
+}
+.news-table tr:first-child {
+  border-left: 3px solid #4a7ab5;
+}
+.news-table tr:hover {
+  border-left: 3px solid #4a7ab5;
+}
+.news-table .news-date {
+  white-space: nowrap;
+  color: #888;
+  font-size: 0.82rem;
+  min-width: 90px;
+  padding: 0.7rem 1rem 0.7rem 0.5rem;
+  vertical-align: top;
+}
+.news-table .news-text {
+  padding: 0.7rem 0.5rem;
+  line-height: 1.6;
+  vertical-align: top;
+}
+.news-table .news-text a {
+  color: #4a7ab5;
+  text-decoration: none;
+}
+.news-table .news-text a:hover {
+  text-decoration: underline;
+}
+html[data-theme='dark'] .news-table tr {
+  border-bottom: 1px solid #333;
+}
+html[data-theme='dark'] .news-table .news-date {
+  color: #aaa;
+}
+html[data-theme='dark'] .news-table .news-text a {
+  color: #6d9fd4;
+}
+</style> -->

@@ -1,0 +1,478 @@
+/* Simple social links — replaces big icons */
+.simple-social {
+  margin-top: 1rem;
+  font-size: 0.85rem;
+}
+
+.simple-social a {
+  color: #4a7ab5;
+  text-decoration: none;
+  font-weight: 400;
+}
+
+.simple-social a:hover {
+  text-decoration: underline;
+}
+
+.simple-social span {
+  color: #999;
+  margin: 0 0.3rem;
+}
+
+/* Bio link */
+.bio-link {
+  color: #4a7ab5;
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+
+.bio-link:hover {
+  text-decoration: underline;
+}
+
+/* Email obfuscation */
+.email-obf::before {
+  content: attr(data-user) "\0040" attr(data-domain);
+  color: #4a7ab5;
+  font-size: 0.85rem;
+  cursor: pointer;
+}
+
+.email-obf:hover::before {
+  text-decoration: underline;
+}
+
+/* ============================================
+   Bio Link
+   ============================================ */
+
+.bio-link {
+  color: #4a7ab5;
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+
+.bio-link:hover {
+  text-decoration: underline;
+}
+
+/* Fix footer */
+footer {
+  position: relative !important;
+  bottom: auto !important;
+  padding: 0.8rem 0 !important;
+  font-size: 0.78rem !important;
+  min-height: unset !important;
+  background-color: transparent !important;
+}
+
+footer .container {
+  padding: 0.3rem 1rem !important;
+}
+
+// /* ============================================
+//    News Section — What's new
+//    Matches abhinavsh.info style
+//    ============================================ */
+
+// /* Section heading */
+// .news h2,
+// #news h2 {
+//   font-size: 1.4rem !important;
+//   font-weight: 400 !important;
+//   letter-spacing: -0.01em;
+//   margin-bottom: 0.3rem !important;
+//   border: none !important;
+//   padding-bottom: 0 !important;
+// }
+
+// /* Blue underline below heading */
+// .news h2::after,
+// #news h2::after {
+//   content: "";
+//   display: block;
+//   width: 2rem;
+//   height: 2px;
+//   background-color: #4a7ab5;
+//   margin-top: 0.4rem;
+//   margin-bottom: 1.5rem;
+// }
+
+// /* News table */
+// .news table {
+//   width: 100%;
+//   border-collapse: collapse;
+//   margin-top: 1rem;
+//   font-size: 0.88rem;
+// }
+
+// /* Each row */
+// .news table tr {
+//   border-bottom: 1px solid #e8e8e8;
+//   border-left: 3px solid transparent;
+//   transition: border-left-color 0.15s ease;
+// }
+
+// /* Highlight latest news row */
+// .news table tr:first-child {
+//   border-left: 3px solid #4a7ab5;
+// }
+
+// .news table tr:hover {
+//   border-left: 3px solid #4a7ab5;
+// }
+
+// /* Date column */
+// .news table td:first-child,
+// .news td.date {
+//   white-space: nowrap;
+//   color: #888888;
+//   font-size: 0.82rem;
+//   min-width: 90px;
+//   padding: 0.7rem 1rem 0.7rem 0.5rem;
+//   vertical-align: top;
+// }
+
+// /* Dark mode date */
+// html[data-theme='dark'] .news table td:first-child {
+//   color: #aaaaaa;
+// }
+
+// /* News text column */
+// .news table td:last-child,
+// .news td.news-text {
+//   padding: 0.7rem 0.5rem;
+//   color: #333333;
+//   line-height: 1.6;
+//   vertical-align: top;
+// }
+
+// /* Dark mode text */
+// html[data-theme='dark'] .news table td:last-child {
+//   color: #cccccc;
+// }
+
+// /* Links inside news */
+// .news table td a {
+//   color: #4a7ab5;
+//   text-decoration: none;
+// }
+
+// .news table td a:hover {
+//   text-decoration: underline;
+// }
+
+// /* Dark mode links */
+// html[data-theme='dark'] .news table td a {
+//   color: #6d9fd4;
+// }
+
+// /* Row separator */
+// html[data-theme='dark'] .news table tr {
+//   border-bottom: 1px solid #333333;
+// }
+
+// /* ============================================
+//    News Section Fixes
+//    ============================================ */
+
+// /* Align heading with table */
+// .news-table {
+//   width: 100% !important;
+//   margin-left: 0 !important;
+//   margin-top: 0.8rem !important;
+//   margin-bottom: 2.5rem !important;  /* gap before selected publications */
+// }
+
+// /* Fix heading alignment */
+// h2 + .news-table,
+// .news-table {
+//   padding-left: 0 !important;
+// }
+
+// /* Add space after entire news section */
+// .news-table + * {
+//   margin-top: 2.5rem !important;
+// }
+
+// /* Fix the left border alignment on first row */
+// .news-table tr:first-child {
+//   border-left: 3px solid #4a7ab5 !important;
+// }
+
+// /* Ensure all rows align properly */
+// .news-table tr {
+//   border-bottom: 1px solid #333 !important;
+//   border-left: 3px solid transparent !important;
+// }
+
+// .news-table tr:hover {
+//   border-left: 3px solid #4a7ab5 !important;
+// }
+
+/* News heading */
+h2.news-heading {
+  font-size: 1.4rem !important;
+  font-weight: 400 !important;
+  border: none !important;
+  padding-bottom: 0 !important;
+  margin-bottom: 0.3rem !important;
+  margin-top: 2rem !important;
+}
+
+h2.news-heading::after {
+  content: "";
+  display: block;
+  width: 2rem;
+  height: 2px;
+  background-color: #4a7ab5;
+  margin-top: 0.4rem;
+  margin-bottom: 1rem;
+}
+
+/* News table aligned with heading */
+.news-table {
+  width: 100% !important;
+  border-collapse: collapse !important;
+  font-size: 0.88rem !important;
+  margin-left: 0 !important;
+  margin-bottom: 3rem !important;
+}
+
+.news-table tr {
+  border-bottom: 1px solid #444 !important;
+  border-left: 3px solid transparent !important;
+}
+
+.news-table tr:first-child {
+  border-left: 3px solid #4a7ab5 !important;
+}
+
+.news-table tr:hover {
+  border-left: 3px solid #4a7ab5 !important;
+}
+
+.news-table .news-date {
+  white-space: nowrap !important;
+  color: #888 !important;
+  font-size: 0.82rem !important;
+  min-width: 100px !important;
+  padding: 0.7rem 1rem 0.7rem 0 !important;
+  vertical-align: top !important;
+}
+
+.news-table .news-text {
+  padding: 0.7rem 0.5rem !important;
+  line-height: 1.6 !important;
+  vertical-align: top !important;
+}
+
+.news-table .news-text a {
+  color: #4a7ab5 !important;
+  text-decoration: none !important;
+}
+
+.news-table .news-text a:hover {
+  text-decoration: underline !important;
+}
+
+/* Dark mode */
+html[data-theme='dark'] .news-table tr {
+  border-bottom: 1px solid #333 !important;
+}
+
+html[data-theme='dark'] .news-table .news-date {
+  color: #aaa !important;
+}
+
+html[data-theme='dark'] .news-table .news-text a {
+  color: #6d9fd4 !important;
+}
+
+/* ============================================
+   Join Us — Custom Tabs
+   Clean Underline Style
+   Harvard Crimson active state
+   ============================================ */
+
+/* Tab button container */
+.tab-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  border-bottom: none;
+  margin-bottom: 1.5rem;
+  padding: 0;
+}
+
+/* Individual tab button */
+.tab-btn {
+  background: none !important;
+  border: none !important;
+  border-bottom: 2px solid #d0d0d0 !important;
+  border-radius: 0 !important;
+  outline: none !important;
+  box-shadow: none !important;
+  -webkit-appearance: none !important;
+  appearance: none !important;
+  padding: 0.4rem 0.8rem !important;
+  margin-bottom: 0 !important;
+  font-family: inherit !important;
+  font-size: 0.88rem !important;
+  font-weight: 400 !important;
+  color: #999999 !important;
+  cursor: pointer;
+  transition: color 0.15s ease,
+              border-bottom-color 0.15s ease;
+  white-space: nowrap;
+}
+
+/* Hover */
+.tab-btn:hover {
+  color: #A51C30 !important;
+  border-bottom-color: #A51C30 !important;
+  background: none !important;
+}
+
+/* Active/selected tab */
+.tab-btn.active {
+  color: #A51C30 !important;
+  border-bottom-color: #A51C30 !important;
+  font-weight: 600 !important;
+  background: none !important;
+}
+
+/* Remove focus ring */
+.tab-btn:focus {
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+/* Tab panels — hidden by default */
+.tab-panel {
+  display: none;
+  padding: 0.5rem 0 1.5rem 0;
+  font-size: 0.92rem;
+  line-height: 1.75;
+  animation: fadeIn 0.2s ease;
+}
+
+.tab-panel h3 {
+  font-size: 1.05rem !important;
+  font-weight: 600 !important;
+  margin-top: 0 !important;
+  margin-bottom: 0.8rem !important;
+  border: none !important;
+  padding: 0 !important;
+}
+
+.tab-panel ul {
+  padding-left: 1.3rem;
+  margin: 0.5rem 0 1rem 0;
+}
+
+.tab-panel ul li {
+  margin-bottom: 0.3rem;
+  font-size: 0.88rem;
+}
+
+.tab-panel p {
+  margin-bottom: 0.8rem;
+  font-size: 0.9rem;
+}
+
+/* Fade animation */
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+
+/* Dark mode */
+html[data-theme='dark'] .tab-btn {
+  color: #666666 !important;
+  border-bottom-color: #444444 !important;
+}
+
+html[data-theme='dark'] .tab-btn:hover,
+html[data-theme='dark'] .tab-btn.active {
+  color: #d4526a !important;
+  border-bottom-color: #d4526a !important;
+}
+
+/* Calendar note */
+.calendar-note {
+  background-color: #f8f9fa;
+  border-left: 3px solid #4a7ab5;
+  padding: 1rem 1.2rem;
+  margin: 1rem 0;
+  border-radius: 0 4px 4px 0;
+  font-size: 0.88rem;
+}
+
+.calendar-note p {
+  margin-bottom: 0.6rem;
+  color: #555;
+}
+
+html[data-theme='dark'] .calendar-note {
+  background-color: #222;
+}
+
+html[data-theme='dark'] .calendar-note p {
+  color: #aaa;
+}
+
+/* Apply button */
+.btn-apply {
+  display: inline-block;
+  font-size: 0.82rem;
+  font-weight: 500;
+  color: #4a7ab5 !important;
+  border: 1px solid #4a7ab5;
+  padding: 0.3rem 0.9rem;
+  border-radius: 3px;
+  text-decoration: none !important;
+  transition: all 0.15s ease;
+  margin-top: 0.5rem;
+}
+
+.btn-apply:hover {
+  background-color: #4a7ab5;
+  color: white !important;
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+  .tab-buttons {
+    overflow-x: auto;
+    flex-wrap: nowrap;
+    -webkit-overflow-scrolling: touch;
+    padding-bottom: 0.2rem;
+  }
+}
+
+/* Conferences → Blue */
+.badge-CVPR, .badge-ICCV, .badge-ECCV,
+.badge-WACV, .badge-AAAI, .badge-BMVC {
+  background-color: #1565C0 !important;
+  color: white !important;
+}
+
+/* ML Conferences → Green */
+.badge-NeurIPS, .badge-ICML, .badge-ICLR {
+  background-color: #2E7D32 !important;
+  color: white !important;
+}
+
+/* Journals → Purple */
+.badge-TPAMI, .badge-IJCV, .badge-TIP,
+.badge-TBIOM, .badge-TNNLS, .badge-TCI {
+  background-color: #6A1B9A !important;
+  color: white !important;
+}
+
+/* Preprint → Dark red */
+.badge-arXiv {
+  background-color: #B71C1C !important;
+  color: white !important;
+}
