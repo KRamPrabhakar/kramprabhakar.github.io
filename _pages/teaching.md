@@ -135,7 +135,7 @@ html[data-theme='dark'] .teaching-table .course-id {
 }
 </style>
 
-<!-- <h2 class="teaching-heading">IIT Madras</h2>
+<h2 class="teaching-heading">IIT Madras</h2>
 
 <table class="teaching-table">
   <thead>
@@ -147,16 +147,17 @@ html[data-theme='dark'] .teaching-table .course-id {
   </thead>
   <tbody>
     <tr>
-      <td class="course-id">DA5XXX</td>
+      <td class="course-id">DA5031</td>
       <td class="course-name">
-        <a href="/teachings/avi_v1">
+        <!-- <a href="/teachings/avi">
           Advanced Visual Intelligence (AVI)
-        </a>
+        </a> -->
+          Advanced Visual Intelligence (AVI)
       </td>
       <td class="course-years">2026 –</td>
     </tr>
   </tbody>
-</table> -->
+</table>
 
 <h2 class="teaching-heading">Johns Hopkins University</h2>
 
