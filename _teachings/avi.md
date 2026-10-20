@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Advanced Visual Intelligence (AVI)
-permalink: /teachings/avi_v1/
+permalink: /teachings/avi/
 nav: false
 ---
 
@@ -467,7 +467,7 @@ html[data-theme='dark'] .policy-label {
 <div class="course-infobox">
   <div class="infobox-item">
     <div class="label">Course Code</div>
-    <div class="value">DA5XXX</div>
+    <div class="value">DA5031</div>
   </div>
   <div class="infobox-item">
     <div class="label">Credits</div>
@@ -815,5 +815,5 @@ video understanding, and vision-language models.
 
 <br>
 <small style="color:#aaa;">
-  Last updated: January 2026
+  Last updated: December 2026
 </small>
